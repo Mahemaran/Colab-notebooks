@@ -1,0 +1,13 @@
+1. Implement a question answering system with RAG, word embedding, vector database, langchain, llm and any other tools
+2. Implement a RAG system for extracting information from multiple excel sheets using LLM, Langchain, word embedding, excel sheet prompt and others tools if necessary. If possible display the extracted information in a table format
+3. Assignments using RAG and Langchain: Use Lang chain and Retrieval Augmented Generation, (RAG), and answer a question from the user using multiple PDF documents connected to the LLM using OpenAI. You can read the question and refer the multiple PDF documents to answer the question. You can use the APIs of any other open source LLM too.
+ 
+4. Assignments using RAG and Langchain: Use Lang chain and Retrieval Augmented Generation, (RAG), and answer a question from the user using multiple text documents (.txt files) connected to the LLM using OpenAI. You can read the question and refer the multiple text documents to answer the question. You can use the APIs of any other open source LLM too.
+
+5. create a simple python program to print the list of models in ChatGPT, Gemini and hugging face?
+
+6. Perform the task of audio streaming from English text to English voice using any of the free open-source APIs or google or Facebook using llama or Gemini.?
+
+7. Perform the task of voice audio in English to  English text using any of the free open-source APIs or google or Facebook using llama or Gemini
+
+8. Use a prebuilt Word2vec model to find the embedding of the given word. ?
